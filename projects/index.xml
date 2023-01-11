@@ -11,7 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/accounting-system-for-debts-and-expenses/</guid>
-      <description></description>
+      <description>The system manages and monitors the debts and expenses of public bodies, but it was created with a focus on cities. Expenses and debts are registered in the system, in addition to other necessary information such as the type of debt, but the manual use of the system is limited to this, because the system automates all control and follow-up processes, requiring the operator to only view the information and make sensitive changes if there is any government obligation.</description>
     </item>
     
   </channel>
